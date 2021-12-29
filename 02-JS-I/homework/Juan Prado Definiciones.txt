@@ -1,0 +1,24 @@
+Juan Eliseo Prado Rojas
+Prep Course Henry
+
+Variable
+- Una variable es como tener una caja donde tu puedes guardar información del tipo que sea, puedes guardar números,
+  letras o combinación de estos. El contenido de la caja (variable) es actualizable y también utilizable en cualquier
+  momento.
+String
+- Una string es una cadena de caracteres (números, letras, símbolos) que son encerrados dentro de comillas dobles o
+  simples.
+Funciones
+- Una función es un objeto al que puedes dar una orden de que te realice una tarea, así como una calculadora te realiza
+  operaciones, así las funciones realizan tareas. Estas pueden ser invocadas en cualquier momento.
+  Las funciones en su estructura llevan los argumentos, que son las cajas (variables) que vamos a tener para desenvolver
+  la función la tarea que le encomendamos a la función.
+  "return" es la conclusión a cualquier función, funciona como si te devolvieras algo prestado, solo que en este caso
+  te devuelve valores.
+Declaraciones (if)
+- Son condiciones que te dan para elegir un resultado, Por ejemplo: Si quieres salir a jugar a la pelota, en muchas
+  ocasiones mamá te pondrá una "condición" de este modo: 'Si acabas tu tarea, sales a jugar', caso contrario 'No sales'.
+  La mamá da a elegir entre ir o no ir. eso es lo que hace if.
+Valores Boleanos
+- Los valores boleanos son utilizados para comparaciones, simplemente es decir si algo es "verdadero" o "falso". Las
+  computadoras, entenderán "true" y "false".
