@@ -1,0 +1,26 @@
+for
+Es un statement que te ayuda crear tareas repetitivas, está compuesto
+por 3 partes principales al momento de usar, se debe tener claro el 
+tipo de variable a usar, una condición que sirva para parar la tarea,
+y un operador de incremento para que se repita dicha tarea.
+
+&&, ||, !
+Son operadores lógicos que funcionan con 1 o 2 premisas, es decir
+con 1 o 2 opciones.
+- && (and (y)) 
+	   Sirve para comparar 2 opciones entre falso y verdadero.
+	   Si ambas opciones son verdaderas, el resultado será verdad.
+	   Si existe un falso en las opciones entonces el resultado será
+	   falso.
+	   En caso de que ambas opciones sean falsas, el resultado será
+           falso.
+- || (Or) 
+           Sirve para comparar 2 opciones entre falso y verdadero.
+	   Si ambas opciones son verdaderas, el resultado será verdad.
+	   Si existe un falso en las opciones entonces el resultado será
+	   verdad.
+	   En caso de que ambas opciones sean falsas, el resultado será
+           falso.
+- ! (NOT) 
+	   Niega una premisa o una opción, es decir si la premisa es verdad
+	   originalmente, esta si es negada será convertida en falsa.
