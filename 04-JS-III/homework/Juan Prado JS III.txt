@@ -1,0 +1,3 @@
+Arrays: Un array es una estructura de datos donde pueden ser ingresados, números, letras, strings y otros. En palabras
+sencillas puede decirse que un array es una casa donde pueden ser invitadas muchas familias. Tienen un tamaño, y tiene
+un nombre para cada elemento al que se le denomina indexado.
