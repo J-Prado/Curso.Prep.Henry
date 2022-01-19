@@ -1,0 +1,18 @@
+Objetos: Son una estructura de datos similar a un arreglo, donde acepta todo tipo de datos (arreglos, números,
+strings, etc.), un objeto permite coleccionar una serie de datos con ciertas propiedades.
+
+Propiedades: Las propiedades son parte de los objetos, son subdivisiones que coleccionan un valor dentro. El valor
+puede ser cualquier tipo de elemento. 
+
+Métodos: Son acciones que se pueden declarar dentro de un objeto o bien fuera de el con el objetivo de ejecutar dicha
+acción, si tomamos el ejemplo de un auto, el color del mismo puede ser considerado una propiedad, y frenar es la acción
+a la que se denomina método.
+
+Bucle for…in: Nos ayuda a poder iterar una propiedad dentro de un objeto siempre y cuando sea "enumerable".
+
+Notación de puntos vs notación de corchetes: 
+La principal diferencia entre estos dos tipos de notación es que cuando se usa la notación por puntos, tu estas apuntando
+a una propiedad exacta dentro de un objeto, para evitar esto, se usa la notación con corchetes que nos permite utilizar una
+variable.
+Existen valores equivalentes como objeto.propiedad y objeto['propiedad'], si se quiere accesar a un objeto usando una variable,
+se debe usar corchetes. Si se busca de manera específica una sección dentro del obeto entonces se debe accesar con dot notation.
