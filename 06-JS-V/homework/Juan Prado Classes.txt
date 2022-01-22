@@ -1,0 +1,6 @@
+prototype:
+Los prototipos nos permiten accesar a los atributos y métodos de una clase, tiene acceso a this.
+
+Constructors (de Clases):
+Los constructores son ejecutados cuando se crea un objeto, se usan para inicializar las propiedades de los objetos 
+(instancias).
