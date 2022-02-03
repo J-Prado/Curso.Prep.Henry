@@ -1,0 +1,54 @@
+html{
+    box-sizing:border-box;
+    font-family: sans-serif;
+}
+*::after,
+*::before{
+    box-sizing: inherit;
+}
+h1{
+        color: rgb(18, 45, 180);
+        text-align: center;
+}
+h2{
+        color: rgb(27, 69, 168);
+}
+.Parte_A{
+    border: 2px dotted black;
+    width: 600px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    text-align: center;
+}
+.Ver.Edu{
+    width:500px;
+    height: 100px;
+    padding: 12px;
+    text-align: justify;
+    display: flexbox;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    flex-flow: row nowrap;
+    flex-direction: row;
+}
+.Ver.Parte_B{
+    width: 600px;
+    height: 40px;
+    padding: 12px;
+    text-align: justify;
+    display: flexbox;
+}
+.Ver.Parte_C{
+    width: 600px;
+    height: 40px;
+    padding: 12px;
+    text-align: justify;
+    display: flexbox;
+}
+img{
+    align-content: center;
+}
+    

@@ -1,0 +1,23 @@
+<style>
+        h1{
+            color: brown;
+        }
+        img{
+            width: 400px;
+        }
+        #thirdDiv{
+            height: 600px;
+            width: 500px;
+            background-color: rgb(219, 207, 158);
+            padding: 50px;
+            border: 5px dotted rgb(120, 4, 29);
+            
+        }
+        #spanId{
+            font-size: 18px;
+            margin: 50px;
+        }
+        body {
+            background-image: url("https://cdn.eso.org/images/thumb700x/millour-01-cc.jpg");
+        }
+</style>
